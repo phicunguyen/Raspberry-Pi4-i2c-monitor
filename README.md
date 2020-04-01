@@ -44,5 +44,5 @@ Second is passing the i2c_mon instance to the i2c_mon_create to intialized the i
      }
 
 
-The maxinum speed can achieve using this method is using 5Khz before losing data. I don't know how to improve the speed.
+The maxinum speed can achieve using this method is 5Khz before losing data. I don't know how to improve the speed.
      
